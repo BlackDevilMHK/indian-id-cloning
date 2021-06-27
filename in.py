@@ -65,7 +65,7 @@ def u():
         print '\x1b[1;97m '
         print '          \x1b[1;92mPASSWORD : \x1b[1;96m' + usr + ' (X)'
         time.sleep(1)
-        os.system('xdg-open https://www.t.me/MasterTrick3')
+        os.system('xdg-open https://www.t.me/BlackDevilMHK')
         u()
 
 
